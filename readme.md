@@ -374,7 +374,7 @@ To enable/disable suspend mode, navigate using keyboard or remote or mouse to th
 ### To navigate through the apps,
   - on keyboard, press the  up, down, left or right arrow keys
   - on remote, press the arrow keys
-  - When Mouse is connected, mouse can be hovered to navigate through the apps
+  - When Mouse is connected, mouse can be hovered to navigate through the apps 
 ### To launch an app,
   - on keyboard, Press Enter key
   - on remote, Press OK button
