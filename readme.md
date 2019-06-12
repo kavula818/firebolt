@@ -355,10 +355,11 @@ A USB keyboard or remote control (on supported systems) or mouse can be used on 
 The following actions are supported:
 
 The UI supports enabling and disabling suspend mode option in the UI.
-Suspend mode provides suspend/resume options for Spark and Native apps.
+When Suspend mode is enabled, it provides suspend/resume options for Spark and Native apps.
 For Web apps Suspend mode is not supported.
 
 To enable/disable suspend mode, navigate using keyboard or remote or mouse to the "Options" on top the top right corner of UI.
+
 ### To see menu on the "Options"
   - on keyboard, press Enter key
   - on mouse, Left click
@@ -370,11 +371,10 @@ To enable/disable suspend mode, navigate using keyboard or remote or mouse to th
     - Press OK on remote
     - Left click on mouse
 
-Follow these instructions to navigate through apps, launch, suspend and stop apps,
 ### To navigate through the apps,
   - on keyboard, press the  up, down, left or right arrow keys
   - on remote, press the arrow keys
-  - When Mouse is connected, mouse can be hovered to navigate through the apps
+  - When Mouse is connected, mouse can be hovered to navigate through the apps 
 ### To launch an app,
     - on keyboard, Press Enter key
     - on remote, Press OK button
