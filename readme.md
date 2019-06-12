@@ -354,6 +354,21 @@ A USB keyboard or remote control (on supported systems) or mouse can be used on 
 
 The following actions are supported:
 
+### To navigate through the apps,
+  - on keyboard, press the  up, down, left or right arrow keys
+  - on remote, press the arrow keys
+  - When Mouse is connected, mouse can be hovered to navigate through the apps
+### To launch a app,
+  - on keyboard, Press Enter key
+  - on remote, Press OK button
+  - on mouse, Left click on Mouse
+### When an application is taking up the whole screen to go back to the app manager menu and stop the running application,
+  - on keyboard, press Ctrl-m
+  - on remote, press xfinity key 
+### To reload the app manager (if the contents of the usb key were changed),
+  - on keyboard, press Ctrl-e
+  - on remote, press Exit key
+
 The UI supports enabling and disabling suspend mode option in the UI.
 When Suspend mode is enabled, it provides suspend/resume options for Spark and Native apps.
 For Web apps Suspend mode is not supported.
@@ -369,30 +384,12 @@ To enable/disable suspend mode, navigate using keyboard or remote or mouse to th
   - Navigate to enable/disable Suspend mode. To enable/disable,
     - Press Enter on keyboard
     - Press OK on remote
-    - Left click on mouse
-
-### To navigate through the apps,
-  - on keyboard, press the  up, down, left or right arrow keys
-  - on remote, press the arrow keys
-  - When Mouse is connected, mouse can be hovered to navigate through the apps 
-### To launch an app,
-  - on keyboard, Press Enter key
-  - on remote, Press OK button
-  - on mouse, Left click on Mouse
-  - When Suspend mode is enabled, select "Start" to launch the app.
-### To suspend/resume an app in suspend mode,
-  - Navigate to the app and open menu options
-  - Select suspend/resume option using keyboard/mouse/remote.
-### When an application is taking up the whole screen to go back to the app manager menu,
-  - on keyboard, press Ctrl-m
-  - on remote, press xfinity key
-  - When Suspend mode is disabled, this will stop the app and show app manager menu
-  - When Suspend mode is enabled,
-    - This will run the app in background and show app manager menu
-    - To Stop the app, select "Stop" from menu options
-### To reload the app manager (if the contents of the usb key were changed),
-  - on keyboard, press Ctrl-e
-  - on remote, press Exit key
+    - Left click on mouse  
+### To launch, suspend, resume, stop an app,
+  - navigate to the app
+  - select the app. Menu options will be displayed at the bottom.
+  - select Start/Suspend/Resume/Stop from the menu options
+  - going back to main menu will show appmanager and run the app in background.
 
 <a name="app-manager-logging-raspberry-pi"></a>
 ### App Manager Logging On The Raspberry Pi ###
