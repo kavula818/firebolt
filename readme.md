@@ -371,26 +371,26 @@ The new UI supports enabling and disabling suspend mode option in the UI.
     - Left click on mouse
 
 Follow these instructions to navigate through apps, launch, suspend and stop apps,
-### To navigate through the apps,
+***To navigate through the apps,***
   - on keyboard, press the  up, down, left or right arrow keys
   - on remote, press the arrow keys
   - When Mouse is connected, mouse can be hovered to navigate through the apps
-### To launch an app,
+***To launch an app,***
     - on keyboard, Press Enter key
     - on remote, Press OK button
     - on mouse, Left click on Mouse
     - When Suspend mode is enabled, select "Start" to launch the app.
-### To suspend/resume an app in suspend mode,
+***To suspend/resume an app in suspend mode,***
   - Navigate to the app and open menu options
   - Select suspend/resume option using keyboard/mouse/remote.
-### When an application is taking up the whole screen to go back to the app manager menu,
+***When an application is taking up the whole screen to go back to the app manager menu,***
   - on keyboard, press Ctrl-m
   - on remote, press xfinity key
   - When Suspend mode is disabled, this will stop the app and show app manager menu
   - When Suspend mode is enabled,
     - This will run the app in background and show app manager menu
     - To Stop the app, select "Stop" from menu options
-### To reload the app manager (if the contents of the usb key were changed),
+***To reload the app manager (if the contents of the usb key were changed),***
   - on keyboard, press Ctrl-e
   - on remote, press Exit key
 
